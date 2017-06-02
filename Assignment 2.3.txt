@@ -1,0 +1,7 @@
+Q. What is JIT?
+Ans
+JIT refers to " Just in time compiler " . 
+It converts byte code into machine code that can be send directly to the 
+machine .
+After you have written a program the source code are compiled by the java compiler into bytecode 
+rather than into code that contains instructions that match a particular hardware platform's processor.
